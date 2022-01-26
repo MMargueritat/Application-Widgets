@@ -1,4 +1,4 @@
 # Application-Widgets
 
 # Lien myBinder
-https://hub-binder.mybinder.ovh/user/mmargueritat-application-widgets-n14ob5rl
+https://mybinder.org/v2/gh/MMargueritat/Application-Widgets.git/HEAD
